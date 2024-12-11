@@ -1,6 +1,6 @@
-# myapp
+# Meu App Layout
 
-A new Flutter project.
+Atividade desenvolvida referente ao módulo 2 da disciplina 11.
 
 ## Getting Started
 
